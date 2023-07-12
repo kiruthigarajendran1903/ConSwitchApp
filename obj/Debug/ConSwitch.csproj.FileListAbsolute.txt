@@ -1,0 +1,8 @@
+D:\ConSwitch\ConSwitch\obj\Debug\ConSwitch.csproj.AssemblyReference.cache
+D:\ConSwitch\ConSwitch\obj\Debug\ConSwitch.csproj.SuggestedBindingRedirects.cache
+D:\ConSwitch\ConSwitch\obj\Debug\ConSwitch.csproj.CoreCompileInputs.cache
+D:\ConSwitch\ConSwitch\bin\Debug\ConSwitch.exe.config
+D:\ConSwitch\ConSwitch\bin\Debug\ConSwitch.exe
+D:\ConSwitch\ConSwitch\bin\Debug\ConSwitch.pdb
+D:\ConSwitch\ConSwitch\obj\Debug\ConSwitch.exe
+D:\ConSwitch\ConSwitch\obj\Debug\ConSwitch.pdb
